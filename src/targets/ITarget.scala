@@ -1,0 +1,2 @@
+trait ITarget:
+    def build()
